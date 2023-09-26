@@ -1,1 +1,3 @@
 # MLOPS---An-End-to-End-Pipeline
+
+The project's objective is to create an end-to-end pipeline for lead scoring, utilizing Airflow and MLflow to facilitate seamless data processing, training, and inference. The primary goal is to categorize leads based on their propensity to purchase CodePro's courses, thus optimizing lead conversion, refining targeting efforts, and eliminating inefficiencies caused by junk leads in the sales process. This initiative is driven by the business metric L2AC (Leads to Application Completion), ensuring a more efficient and data-driven approach to customer acquisition and engagement.Also Deployed another use case - heart disease through docker. Please find the basic template in the below github link
